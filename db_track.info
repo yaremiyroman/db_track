@@ -1,0 +1,5 @@
+name = DataBaseTrack
+description = Provides track and logging of database changes
+core = 7.x
+package = Development
+configure = admin/config/development/db_track
